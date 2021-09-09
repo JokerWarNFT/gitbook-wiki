@@ -7,4 +7,7 @@
 ## 6 WAYS TO EARN
 
 * [🃏 Collect](6-ways-to-earn/collect.md)
+* [🎴 Trade](6-ways-to-earn/trade.md)
+* [♠️  Stake](6-ways-to-earn/stake.md)
+* [♥️  Battle](6-ways-to-earn/love-battle.md)
 
