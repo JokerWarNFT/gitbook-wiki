@@ -6,7 +6,9 @@ The main aim of the game is to collect unique basic cards. There are ****52 diff
 
 ![](../.gitbook/assets/basiccards.png)
 
+​Once the player has collected at least one card of each type, he can turn them all into a red Joker to win the jackpot. Each time a card is created, it receives a unique incremental serial number for this kind of card, making this token a unique NFT. 
 
+When a card is used \(when upgraded or transformed\), this NFT is burned forever. Usually, the value of a card is determined by its level \(highest best\) and its serial number \(lowest best\).
 
 
 
