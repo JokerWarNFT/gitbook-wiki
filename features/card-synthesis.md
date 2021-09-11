@@ -1,4 +1,4 @@
-# Cards Upgrade
+# Cards Synthesis
 
 The Basic cards can be synthesized to new higher level cards. 
 
@@ -7,6 +7,8 @@ Cards of J, Q, K, A can only be upgraded step by step. For example, a Q can only
 For 2~10, the number of the newly synthesized card is the sum of the number of the two cards involved in the synthesis, with random suit  and the same probability. For example, 2 and 8 can only be synthesized in 10, while 2 and 9 cannot be synthesized.
 
 Synthesis of the same suit will have a 50% chance of obtaining a new card of the same suit. Example: Clubs + Clubs Synthesis, there is a 50% probability to get a  Clubs.
+
+Cards of the same suit have a 50% chance of being synthesized with the same suit.
 
 Hearts are the lucky suit and have a 50% chance of dropping a new card when synthesized.
 
