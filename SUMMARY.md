@@ -11,3 +11,7 @@
 * [♠️  Stake](6-ways-to-earn/stake.md)
 * [♥️  Battle](6-ways-to-earn/love-battle.md)
 
+## Features
+
+* [The Basic Cards](features/the-basic-cards.md)
+
