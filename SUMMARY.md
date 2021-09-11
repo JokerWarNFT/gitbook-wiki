@@ -1,10 +1,12 @@
 # Table of contents
 
 * [JokerWar Intro](README.md)
-* [How to play](get-started/README.md)
-  * [How to play to earn](get-started/how-to-play-to-earn.md)
-  * [How to win the jackpot](get-started/untitled.md)
-  * [How to mining](get-started/how-to-mining.md)
+
+## HowToPlay
+
+* [How to play to earn](howtoplay/how-to-play-to-earn.md)
+* [How to win the jackpot](howtoplay/untitled-1.md)
+* [How to mining](howtoplay/how-to-mining.md)
 
 ## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
 
