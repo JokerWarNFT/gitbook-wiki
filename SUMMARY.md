@@ -4,7 +4,7 @@
 * [Get Started](get-started/README.md)
   * [Untitled](get-started/untitled.md)
 
-## 6 WAYS TO EARN
+## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
 
 * [🃏 Collect](6-ways-to-earn/collect.md)
 * [🎴 Trade](6-ways-to-earn/trade.md)
