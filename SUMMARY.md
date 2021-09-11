@@ -15,5 +15,6 @@
 
 * [The Basic Cards](features/the-basic-cards.md)
 * [​ War timing](features/season-period-turn.md)
+* [Winning Strategy](features/winning-strategy.md)
 * [Card Synthesis](features/card-synthesis.md)
 
