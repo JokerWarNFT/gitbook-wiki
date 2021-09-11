@@ -14,6 +14,6 @@
 ## Features
 
 * [The Basic Cards](features/the-basic-cards.md)
-* [Season, Period, Turn](features/season-period-turn.md)
+* [​ War timing](features/season-period-turn.md)
 * [Card Synthesis](features/card-synthesis.md)
 
