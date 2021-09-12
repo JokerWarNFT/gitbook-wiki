@@ -2,7 +2,7 @@
 
 ​The process of transforming Basic Cards into Joker is called "Transform". 
 
-If all 52 cards are collected, the Transform a Red Joker, and if not, the Transform a Black Joker. 
+If all 52 cards are collected, the Transform a **Red Joker**, and if not, the Transform a **Black Joker**. 
 
 Each Joker has a Meanness Index \(MI\), which is the sum of the tokens of all the cards that participated in the transform. When the pool is finally divided, it is distributed according to the percentage of the Meanness Index. 
 
