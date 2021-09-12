@@ -8,3 +8,9 @@ Each Joker has a Meanness Index \(MI\), which is the sum of the tokens of all th
 
 The process of Joker transform can be done at any time, and the earlier it is done, the better the final Joker MI will be. It can be calculated based on the card number, the older the card the lower the Joker's Evil Index MI will be, and the more bonuses will be divided.
 
+Players can add names to their transformed joker.
+
+JokerWar character \(JWC\) base attributes include Name, Creator, Evolution, Birth, JokerWar Period, Cards.
+
+
+
