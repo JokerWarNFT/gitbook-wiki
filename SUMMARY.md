@@ -21,7 +21,7 @@
   * [Draw](features/the-basic-cards/draw.md)
   * [Synthesis](features/the-basic-cards/card-synthesis.md)
   * [Transform](features/the-basic-cards/transform.md)
-  * [Merge](features/the-basic-cards/merge.md)
+  * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
 * [War Time](features/war-time.md)
 
