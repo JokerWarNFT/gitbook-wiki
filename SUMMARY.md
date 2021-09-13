@@ -23,5 +23,5 @@
   * [Transform](features/the-basic-cards/transform.md)
   * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
-* [War Time](features/war-time.md)
+* [War Period](features/war-time.md)
 
