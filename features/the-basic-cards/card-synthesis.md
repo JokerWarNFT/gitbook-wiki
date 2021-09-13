@@ -1,4 +1,4 @@
-# Cards Synthesis
+# Synthesis
 
 The Basic cards can be synthesized to new higher level cards. 
 

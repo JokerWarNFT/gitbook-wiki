@@ -4,7 +4,7 @@
 
 The main aim of the game is to collect unique basic cards. There are ****52 different basic cards, grouped into 6  levels. A level only shows how difficult the particular card is to get. There are:
 
-![](../.gitbook/assets/levels.png)
+![](../../.gitbook/assets/levels.png)
 
 ​Once the player has collected at least one card of each type, he can turn them all into a red Joker to win the jackpot. Each time a card is created, it receives a unique incremental serial number for this kind of card, making this token a unique NFT. 
 

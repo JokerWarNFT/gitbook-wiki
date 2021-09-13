@@ -17,9 +17,9 @@
 
 ## Features
 
-* [The Basic Cards](features/the-basic-cards.md)
-* [Cards Synthesis](features/card-synthesis.md)
+* [The Basic Cards](features/the-basic-cards/README.md)
+  * [Synthesis](features/the-basic-cards/card-synthesis.md)
+  * [Transform](features/the-basic-cards/transform.md)
 * [Season, Period, Action](features/season-period-turn.md)
-* [Transform](features/transform.md)
 * [War Time](features/war-time.md)
 
