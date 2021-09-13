@@ -1,6 +1,6 @@
 # Transform
 
-​The process of transforming Basic Cards into Joker is called "Transform". 
+​The process of transforming Basic Cards into Joker is called "**Transform**". 
 
 If all 52 cards are collected, they are transformed into a **Red Joker**, if not, they are transformed into a **Black Joker**.
 
