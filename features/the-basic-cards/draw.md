@@ -1,6 +1,6 @@
 # Draw
 
-​Players can cost several JOK \(one unit\) to draw 3 basic cards at random.There are 52 different basic cards, grouped into 6 levels. A level only shows how difficult the particular card is to get. There are:
+​Players can cost several JOK \(one unit\) to draw 4 basic cards at random.There are 52 different basic cards, grouped into 6 levels. A level only shows how difficult the particular card is to get. There are:
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
