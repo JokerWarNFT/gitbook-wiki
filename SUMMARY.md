@@ -16,6 +16,7 @@
   * [Transform](features/the-basic-cards/transform.md)
   * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
+* [Jackpot](features/jackpot.md)
 
 ## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
 
