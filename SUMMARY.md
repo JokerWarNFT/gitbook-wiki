@@ -16,7 +16,6 @@
   * [Transform](features/the-basic-cards/transform.md)
   * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
-* [War Period](features/war-time.md)
 
 ## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
 
