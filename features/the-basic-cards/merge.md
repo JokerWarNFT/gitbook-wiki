@@ -1,4 +1,4 @@
 # Equip
 
-coming soon!
+Coming soon!
 
