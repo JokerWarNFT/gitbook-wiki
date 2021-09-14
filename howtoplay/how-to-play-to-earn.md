@@ -1,4 +1,4 @@
-# How to play to earn
+# ♥️  How to play to earn
 
 ​
 

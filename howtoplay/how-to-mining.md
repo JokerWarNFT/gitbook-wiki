@@ -1,2 +1,2 @@
-# How to mining
+# 🎴 How to mining
 

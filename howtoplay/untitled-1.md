@@ -1,4 +1,4 @@
-# How To Win The Jackpot
+# 🃏 How To Win The Jackpot
 
 JokerWar has a jackpot and keeps growing their value within the game season. To become a winning player and share the jackpot, there are the following steps:
 

@@ -4,9 +4,9 @@
 
 ## HowToPlay
 
-* [How To Win The Jackpot](howtoplay/untitled-1.md)
-* [How to mining](howtoplay/how-to-mining.md)
-* [How to play to earn](howtoplay/how-to-play-to-earn.md)
+* [🃏 How To Win The Jackpot](howtoplay/untitled-1.md)
+* [🎴 How to mining](howtoplay/how-to-mining.md)
+* [♥️  How to play to earn](howtoplay/how-to-play-to-earn.md)
 
 ## Features
 
