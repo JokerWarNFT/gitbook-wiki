@@ -1,4 +1,4 @@
-# How to win the jackpot
+# How To Win The Jackpot
 
 JokerWar has a jackpot and keeps growing their value within the game season. To become a winning player and share the jackpot, there are the following steps:
 
@@ -14,7 +14,7 @@ The instructions to draw the Basic cards can be found here:
 
 #### Step 2: Synthesize The Higher Level Cards
 
-Players need to collect 52 different basic cards with 6 levels. Using lower level cards to synthesize higher level cards is an economical strategy to win.
+The Higher Level Cards have a higher value. Players need to collect 52 different basic cards with 6 levels. Using lower level cards to synthesize higher level cards is an economical strategy to win.
 
 The instructions to synthesize the higher level cards can be found here:
 

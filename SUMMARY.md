@@ -5,7 +5,7 @@
 ## HowToPlay
 
 * [How to play to earn](howtoplay/how-to-play-to-earn.md)
-* [How to win the jackpot](howtoplay/untitled-1.md)
+* [How To Win The Jackpot](howtoplay/untitled-1.md)
 * [How to mining](howtoplay/how-to-mining.md)
 
 ## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
