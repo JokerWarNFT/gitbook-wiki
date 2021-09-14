@@ -4,16 +4,9 @@
 
 ## HowToPlay
 
-* [How to play to earn](howtoplay/how-to-play-to-earn.md)
 * [How To Win The Jackpot](howtoplay/untitled-1.md)
 * [How to mining](howtoplay/how-to-mining.md)
-
-## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
-
-* [🃏 Collect](6-ways-to-earn/collect.md)
-* [🎴 Trade](6-ways-to-earn/trade.md)
-* [♠️  Stake](6-ways-to-earn/stake.md)
-* [♥️  Battle](6-ways-to-earn/love-battle.md)
+* [How to play to earn](howtoplay/how-to-play-to-earn.md)
 
 ## Features
 
@@ -24,4 +17,11 @@
   * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
 * [War Period](features/war-time.md)
+
+## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
+
+* [🃏 Collect](6-ways-to-earn/collect.md)
+* [🎴 Trade](6-ways-to-earn/trade.md)
+* [♠️  Stake](6-ways-to-earn/stake.md)
+* [♥️  Battle](6-ways-to-earn/love-battle.md)
 
