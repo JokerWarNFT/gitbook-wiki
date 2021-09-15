@@ -17,6 +17,8 @@
   * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
 * [Jackpot](features/jackpot.md)
+* [Joker Land](features/joker-land.md)
+* [Training Center](features/training-center.md)
 
 ## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
 
