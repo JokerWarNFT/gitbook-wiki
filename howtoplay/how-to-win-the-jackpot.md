@@ -32,9 +32,9 @@ The instructions to Transform can be found here:
 
 #### Step 4: Start the JokerWar, Win the jackpot
 
-If you are the first Red Joker to appear during the season, you can become a Starter and start the War Period. You can win  more jackpot!
+If the first Red Joker to appear during the Season, anyone can start the Joker War, so that he becomes a war starter. The War Starter will get 1% of the Jackpot.
 
-Players who have collected Red Jokers in the current season can share the jackpot together. It is important to note that once five players in the current season have won Red Jokers first, the rest of the players will need to go on to the next new season to transform basic cards into Red Jokers to win the jackpot.
+Players who have collected the Red Jokers during this Season can share the jackpot together. It is important to note that only five Red Jokers can participate in one Season. Once five Red Jokers have appeared, no one else will be able to transform into the Red Joker in the same Season. 
 
 The percentage of the jackpot you win: 
 
