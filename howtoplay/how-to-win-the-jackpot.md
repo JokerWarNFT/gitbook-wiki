@@ -36,3 +36,9 @@ If you are the first Red Joker to appear during the season, you can become a Sta
 
 Players who have collected Red Joker in the current season can share the jackpot together. It is important to note that once five players in the current season have won Red Joker first, the rest of the players will need to go on to the next new season to transform basic cards into Red Joker to win the jackpot.
 
+The percentage of the jackpot you win: 
+
+{% page-ref page="../features/jackpot.md" %}
+
+
+
