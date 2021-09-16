@@ -10,5 +10,3 @@
 
 15% remain in the jackpot for the next season.
 
-![](../.gitbook/assets/jackpot.png)
-
