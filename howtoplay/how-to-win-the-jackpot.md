@@ -22,13 +22,17 @@ The instructions to synthesize the higher level cards can be found here:
 
 #### Step 3: Transform The Basic Cards Into the Joker​
 
-When you have collected all 52 basic cards, you can transform them into Red Joker. And at the end of the War Period, you can win the Jackpot!
+When you have collected some basic cards, you can transform them into a Black Joker. As you continue to synthesize new high-level basic cards, you can transform them with a Black Joker until you have transformed 52 different basic cards and you have gained a Red Joker.
 
-If you are the first Red Joker to appear during the season, you can become a Starter and start the War Period. You can win  more jackpot!
+Be aware that Black Joker can also play to earn in Joker War.
 
 The instructions to Transform can be found here:
 
 {% page-ref page="../features/the-basic-cards/transform.md" %}
 
+#### Step 4: Start the JokerWar, Win the jackpot
 
+If you are the first Red Joker to appear during the season, you can become a Starter and start the War Period. You can win  more jackpot!
+
+Players who have collected Red Joker in the current season can share the jackpot together. It is important to note that once five players in the current season have won Red Joker first, the rest of the players will need to go on to the next new season to transform basic cards into Red Joker to win the jackpot.
 
