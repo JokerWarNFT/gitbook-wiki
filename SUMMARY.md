@@ -16,6 +16,7 @@
   * [Transform](features/the-basic-cards/transform.md)
   * [Equip](features/the-basic-cards/merge.md)
 * [Season, Period, Action](features/season-period-turn.md)
+* [War Period, Peace Period](features/war-period-peace-period.md)
 * [Jackpot](features/jackpot.md)
 * [Joker Land](features/joker-land.md)
 * [Training Center](features/training-center.md)
