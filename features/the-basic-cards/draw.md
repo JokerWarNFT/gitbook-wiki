@@ -13,5 +13,5 @@
 
 Usually, the value of a card is determined by its level \(highest best\) and its serial number \(lowest the best\).
 
-The basic cards \(BEP-721 compliant\) are free to be used, sold, exchanged, etc.
+The basic cards are free to be used, sold, exchanged, etc.
 
