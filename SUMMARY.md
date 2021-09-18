@@ -6,7 +6,7 @@
 
 * [🃏 How To Win The Jackpot](howtoplay/how-to-win-the-jackpot.md)
 * [🎴 How to mining](howtoplay/how-to-mining.md)
-* [🃟  How to play to earn](howtoplay/how-to-play-to-earn.md)
+* [🃟 How to play to earn](howtoplay/how-to-play-to-earn.md)
 
 ## Features
 
