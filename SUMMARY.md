@@ -28,3 +28,7 @@
 * [♠️  Stake](6-ways-to-earn/stake.md)
 * [♥️  Battle](6-ways-to-earn/love-battle.md)
 
+## TOKENOMICS
+
+* [JOK Token](tokenomics/jok-token.md)
+

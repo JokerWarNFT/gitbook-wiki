@@ -1,4 +1,4 @@
 # Training Center
 
-​
+​Coming soon!
 
