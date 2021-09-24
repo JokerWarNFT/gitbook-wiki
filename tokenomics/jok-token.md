@@ -10,6 +10,8 @@
 * **System Pool:** 60%
 * **IDO:** 10%
 * **Liquidity:** 10%
+* **Action Fees:** 97% to Jackpot, 3% to team
+* **Exchange Fees:** Sell 3% to team
 
-![](../.gitbook/assets/token.png)
+![](../.gitbook/assets/token1.png)
 
