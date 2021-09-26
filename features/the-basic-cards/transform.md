@@ -1,12 +1,12 @@
 # Transform
 
-​The process of transforming Basic Cards into Joker is called "**Transform**". 
+​The process of transforming Basic Cards into the Joker is called "**Transform**".
 
-If all 52 cards are collected, they are transformed into a **Red Joker**, if not, they are transformed into a **Black Joker**.
+If all 52 cards are collected, they can be transformed into the **Red Joker,** if not, they can only be transformed into the **Black Joker**.
 
-Players can add names to their transformed joker.
+Players can customize the name of your Jokers.
 
-JokerWar character \(JWC\) base attributes include Name, Creator, Evolution, Birth, JokerWar Period, Cards.
+The basic attributes of the Joker War Character \(JWC\) include Name, Creator, Evolution, Birth, JokerWar Period, and Cards.
 
 
 
