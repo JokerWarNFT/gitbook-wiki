@@ -11,7 +11,7 @@
 | **5** | K | 1/256 |
 | **6** | A | 1/512 |
 
-​Once the player has collected at least one card of each type, he can transform them all into a Red Joker to win the jackpot. Each time a card is created, it receives a unique incremental serial number for this kind of card, making this token a unique NFT. 
+​Once the player has collected at least one card of each type, he can transform them all into the Red Joker to win the jackpot. Each time a card is created, it receives a unique incremental serial number for this kind of card, making this token a unique NFT. 
 
 When a card is used \(synthesized or transformed\), this NFT is burned forever. 
 

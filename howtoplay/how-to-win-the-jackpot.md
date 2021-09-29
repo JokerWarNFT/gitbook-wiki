@@ -22,9 +22,9 @@ The instructions to synthesize the higher level cards can be found here:
 
 #### Step 3: Transform The Basic Cards Into the Joker​
 
-When you have collected some basic cards, you can transform them into a Black Joker. As you continue to synthesize new high-level basic cards, you can transform them with a Black Joker until you have transformed 52 different basic cards and you have gained a Red Joker.
+When you have collected some basic cards, you can transform them into the Black Joker. As you continue to synthesize new high-level basic cards, you can transform them with a Black Joker until you have transformed 52 different basic cards and you have gained the Red Joker.
 
-Be aware that Black Jokers can also play to earn in Joker War.
+Be aware that the Black Jokers can also play to earn in Joker War.
 
 The instructions to Transform can be found here:
 
