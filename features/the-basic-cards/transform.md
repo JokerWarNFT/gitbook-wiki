@@ -1,6 +1,6 @@
 # Transform
 
-![Transform](../../.gitbook/assets/image%20%2810%29.png)
+![Transform](../../.gitbook/assets/image%20%2813%29.png)
 
 The process of transforming Basic Cards into the Joker is called "**Transform**".
 
@@ -10,7 +10,7 @@ Players can customize the name of your Jokers.
 
 The basic attributes of the Joker War Character \(JWC\) include Name, Creator, Evolution, Birth, JokerWar Period, and Cards.
 
-![The Red Joker](../../.gitbook/assets/image%20%289%29.png)
+![The Red Joker](../../.gitbook/assets/image%20%2811%29.png)
 
 
 

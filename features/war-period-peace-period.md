@@ -8,6 +8,8 @@ Red Jokers who participate in the Joker War during the season can share the jack
 
 Be aware that during the War Period, you may continue to draw basic cards.
 
+![](../.gitbook/assets/image%20%2812%29.png)
+
 ## Peace Period
 
 After the end of JokerWar, it needs to cool down for a period before a new season.
