@@ -8,3 +8,5 @@ The game is turn based. A player can make a limited amount of turns per Period. 
 
 **Action:** A player is allowed to take only 15 actions every period. There are five different actions to choose from in JokerWar, including Draw, Cards Synthesis, Transform, Equip and Start the war. Each action costs an Action Fee, and an Action Fee is 200 JOKs, which is deposited into the JokerWar jackpot.
 
+![](../.gitbook/assets/wecom-temp-41e8f29b739a8e2c8e9d80d065fad27f.png)
+
