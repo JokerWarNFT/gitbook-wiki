@@ -7,7 +7,7 @@
 * **Supply:** 100,000,000
 * **Private Sale:** 15%
 * **Airdrop & Marketing:** 5%
-* **System Pool:** 60%
+* **System Pool\(Reward InGame\):** 60%
 * **IDO:** 10%
 * **Liquidity:** 10%
 * **Action Fees:** 97% to Jackpot, 3% to team
