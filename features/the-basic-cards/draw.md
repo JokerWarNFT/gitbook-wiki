@@ -1,6 +1,10 @@
 # Draw
 
-​Players could invest JOKs to draw random cards. There are 52 different basic cards, grouped into 6 levels. A level only shows how difficult the particular card is to get. There are:
+
+
+![Draw Cards](../../.gitbook/assets/draw.png)
+
+Players could invest JOKs to draw random cards. There are 52 different basic cards, grouped into 6 levels. A level only shows how difficult the particular card is to get. There are:
 
 | Level | Card | Probability |
 | :---: | :---: | :---: |
