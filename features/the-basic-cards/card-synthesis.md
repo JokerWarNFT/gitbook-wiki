@@ -1,5 +1,7 @@
 # Synthesis
 
+![Synthesis](../../.gitbook/assets/syn.png)
+
 The Basic cards can be synthesized to new higher level cards. 
 
 Cards of J, Q, K, A can only be upgraded step by step. For example, a Q can only be combined by two Js, and a K can only be combined by two Qs. 
