@@ -7,3 +7,5 @@ The jackpot is given to the parties involved. Namely:
 * 20% of the Jackpot: To the System JOK Pool. 
 * 15% of the Jackpot: Reserved for the next Season's JackPot.
 
+![](../.gitbook/assets/image%20%2812%29.png)
+
