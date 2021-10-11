@@ -21,7 +21,7 @@
 * [Joker Land](features/joker-land.md)
 * [Training Center](features/training-center.md)
 
-## 4 WAYS TO EARN <a id="6-ways-to-earn"></a>
+## 4 WAYS TO EARN <a href="6-ways-to-earn" id="6-ways-to-earn"></a>
 
 * [🃏 Collect & Play](6-ways-to-earn/collect.md)
 * [🎴 Trade](6-ways-to-earn/trade.md)
@@ -31,4 +31,4 @@
 ## TOKENOMICS
 
 * [JOK Token](tokenomics/jok-token.md)
-
+* [Contracts](tokenomics/contracts.md)
