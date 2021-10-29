@@ -1,8 +1,8 @@
 # Joker Land
 
-​Joker War has a new world: Joker Land, in which you can bring certain specific Black Jokers to Joker Land for mining during the season.
+The Joker Land is an Amusement Park, where eligible Jokers can work to earn.&#x20;
 
-Based on the first hash at the start of the season, the four bytecodes are taken out and the four cards and suits A, B, C, D are derived. When the Black Joker contains these four cards, you can Minning earn JOK.
+Each Working Round generates four random qualifying cards that must be included in the current Working Round for Jokers to be eligible to work in Joker Land. A Working Round will last for several cycles. Jokers who are eligible to work need to stake to The Joker Land in order to earn, and while staking, Jokers cannot participate in other activities and need to unstake if they want to participate in other activities such as Joker War or Training Center.&#x20;
 
-
+Jokers should at least work on Joker Land for 8 Hours before unstaking.
 
