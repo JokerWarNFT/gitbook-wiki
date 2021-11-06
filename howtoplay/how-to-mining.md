@@ -1,6 +1,8 @@
 # How to mining
 
-​The Joker Land is an Amusement Park, where eligible Jokers can work to earn. there are the following steps:
+![​Joker Land](../.gitbook/assets/12.png)
+
+The Joker Land is an Amusement Park, where eligible Jokers can work to earn. there are the following steps:
 
 #### Step 1: Find and collect the four eligible cards for the current turn&#x20;
 

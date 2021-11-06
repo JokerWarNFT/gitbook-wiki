@@ -1,6 +1,8 @@
 # How to play to earn
 
-​Jokers can train in the Training Center by taking on four different challenges and receiving random rewards for successful challenges.&#x20;
+![Training Center](../.gitbook/assets/13.png)
+
+Jokers can train in the Training Center by taking on four different challenges and receiving random rewards for successful challenges.&#x20;
 
 The instructions for Training Center can be found here:
 

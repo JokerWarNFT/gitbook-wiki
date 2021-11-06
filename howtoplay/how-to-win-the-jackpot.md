@@ -1,4 +1,4 @@
-# 🃏 How To Win The Jackpot
+# How To Win The Jackpot
 
 ![The Jackpot](../.gitbook/assets/1194aa3de6be8aa976e8a256f1d08d9f.png)
 
@@ -12,7 +12,9 @@ Players can buy four basic cards of the lowest rank at a time, and also have a c
 
 The instructions to draw the Basic cards can be found here:
 
-{% page-ref page="../features/the-basic-cards/draw.md" %}
+{% content-ref url="../features/the-basic-cards/draw.md" %}
+[draw.md](../features/the-basic-cards/draw.md)
+{% endcontent-ref %}
 
 #### Step 2: Synthesize The Higher Level Cards
 
@@ -20,7 +22,9 @@ The Higher Level Cards have a higher value. Players need to collect 52 different
 
 The instructions to synthesize the higher level cards can be found here:
 
-{% page-ref page="../features/the-basic-cards/card-synthesis.md" %}
+{% content-ref url="../features/the-basic-cards/card-synthesis.md" %}
+[card-synthesis.md](../features/the-basic-cards/card-synthesis.md)
+{% endcontent-ref %}
 
 #### Step 3: Transform The Basic Cards Into the Joker​
 
@@ -30,7 +34,9 @@ Be aware that the Black Jokers can also play to earn in Joker War.
 
 The instructions to Transform can be found here:
 
-{% page-ref page="../features/the-basic-cards/transform.md" %}
+{% content-ref url="../features/the-basic-cards/transform.md" %}
+[transform.md](../features/the-basic-cards/transform.md)
+{% endcontent-ref %}
 
 #### Step 4: Start the JokerWar, Win the jackpot
 
@@ -38,9 +44,9 @@ In a new season, you could use an unused Red Joker to start the war. When you ar
 
 Red Jokers who participate in the Joker War during the season can share the jackpot together. It is important to note that a maximum of five Red Jokers are allowed to join the war in a season. Once the fifth Red Joker joins the war, other Red Jokers will not be able to continue to join during this season.
 
-The percentage of the jackpot you win: 
+The percentage of the jackpot you win:&#x20;
 
-{% page-ref page="../features/jackpot.md" %}
-
-
+{% content-ref url="../features/jackpot.md" %}
+[jackpot.md](../features/jackpot.md)
+{% endcontent-ref %}
 
