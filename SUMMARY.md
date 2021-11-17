@@ -1,6 +1,7 @@
 # Table of contents
 
 * [JokerWar Intro](README.md)
+* [About Beta Procedure](about-beta-procedure.md)
 
 ## HowToPlay
 
