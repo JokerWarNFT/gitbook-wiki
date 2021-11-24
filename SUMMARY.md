@@ -2,7 +2,7 @@
 
 * [JokerWar Intro](README.md)
 * [About Beta Procedure](about-beta-procedure.md)
-* [JokerWar-CN](jokerwar-cn.md)
+* [简体中文版](jian-ti-zhong-wen-ban.md)
 
 ## HowToPlay
 
