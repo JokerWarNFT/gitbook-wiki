@@ -2,6 +2,7 @@
 
 * [JokerWar Intro](README.md)
 * [About Beta Procedure](about-beta-procedure.md)
+* [JokerWar-CN](jokerwar-cn.md)
 
 ## HowToPlay
 
