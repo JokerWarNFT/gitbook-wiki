@@ -26,4 +26,4 @@
 
 #### d. Start game testing: [app.jokerwar.com](https://app.jokerwar.com/cards/draw)
 
-![](.gitbook/assets/wecom-temp-00288ce67d2a2e443acccd0eb0e698d5.png)
+![](.gitbook/assets/start.png)
