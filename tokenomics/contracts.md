@@ -1,3 +1,10 @@
 # Contracts
 
 **​JOK Token:** 0x01681E3a7c86Fc27B0764814051A67f7e02661C1
+
+#### Relevant Contract Addresses <a href="5138" id="5138"></a>
+
+* Team： 0x8710f9029b5CFABFF341eA0ba685a5067d4866Af
+* Airdrop & Marketing: 0x64F8c3D12DefC7F944905AF8952408161551A2f4
+* Liquidity: 0x081d2b5B4DF4f500420CfB99f2c42e58463750b8
+* Private Sale: 0xc9A915Fa6C8a0aadF70D755A05c3Cad937A087C1
