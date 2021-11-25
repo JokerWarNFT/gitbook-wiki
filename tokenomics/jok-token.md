@@ -18,4 +18,4 @@
 
 Private Sale: 10% unlock at listing, then 10% monthly
 
-Liquidity: Locked for 1 years
+Liquidity: Locked for 1 year
