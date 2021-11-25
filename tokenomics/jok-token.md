@@ -16,6 +16,8 @@
 
 #### **Token Release Schedule** <a href="45ce" id="45ce"></a>
 
+Public Sale: 100% unlock at listing
+
 Private Sale: 10% unlock at listing, then 10% monthly
 
 Liquidity: Locked for 1 year
