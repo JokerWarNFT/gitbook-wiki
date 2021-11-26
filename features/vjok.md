@@ -1,4 +1,4 @@
-# VIP JOK
+# vJOK
 
 ![](<../.gitbook/assets/Jok1 (1).png>)
 
@@ -18,6 +18,10 @@ You can capture the values ​​of JokerWar by staking vJOK, including:&#x20;
 The vJOK can be redeemed to JOK in the ratio of 1:1 but with withdrawal fee.The withdrawal fee will be distributed to all vJOK holders.
 
 
+
+**In the future, there will be more benefits granted to vJOK, stay tuned!**
+
+****
 
 
 
