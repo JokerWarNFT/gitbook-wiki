@@ -22,6 +22,7 @@
 * [Jackpot Distribution](features/jackpot.md)
 * [Joker Land](features/joker-land.md)
 * [Training Center](features/training-center.md)
+* [VIP JOK](features/vip-jok.md)
 
 ## 4 WAYS TO EARN <a href="6-ways-to-earn" id="6-ways-to-earn"></a>
 
