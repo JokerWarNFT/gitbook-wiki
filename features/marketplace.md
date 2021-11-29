@@ -2,7 +2,7 @@
 
 You can trade your cards on the Fangible platform:
 
-[https://fangible.com/collection?address=0xfAf2d89672ca17F33F769e22462C47548eEd790b\&art=\_\&tab=sale](https://fangible.com/collection?address=0xfAf2d89672ca17F33F769e22462C47548eEd790b\&art=\_\&tab=sale)
+{% embed url="https://fangible.com/collection?address=0xfAf2d89672ca17F33F769e22462C47548eEd790b&art=_&tab=sale" %}
 
 ## Here are the steps to sell:
 
